@@ -1,9 +1,8 @@
 Demo Videos for John and Jess's final project
 
-Holes In Reality sceen: https://youtu.be/8h1gxNuAab0
+Holes In Reality scene: https://youtu.be/8h1gxNuAab0  ~ My work
 
-Interstaller Galaxy sceen: https://youtu.be/3ZPh9WIcgyA
+Interstaller Galaxy scene: https://youtu.be/3ZPh9WIcgyA  ~ Jess's work
 
-The report is in the project report folder/write up.pdf
 
-Source code for the project is located in the final_project folder
+Source code for the project is located in the HolesInReality folder
